@@ -18,3 +18,10 @@ for i in range(21):
 
 print('Hi')
 print('Testing')
+
+
+def testing(x):
+  return x + 10
+
+
+testing(10)
